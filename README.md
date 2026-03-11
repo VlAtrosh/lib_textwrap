@@ -134,6 +134,8 @@ lib_textwrap/
 | `with_indent.txt` | Текст с общим отступом для проверки `--dedent` |
 | `long_line.txt` | Одна длинная строка для проверки переноса по ширине |
 
+<img width="691" height="428" alt="Снимок экрана (208)" src="https://github.com/user-attachments/assets/01e7b0a5-7aaa-4be6-b81b-6107cb7f7f92" />
+
 
 ## Инструкция по запуску
 
