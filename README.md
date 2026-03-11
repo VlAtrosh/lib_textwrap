@@ -140,7 +140,8 @@ lib_textwrap/
 **Требования:** Python 3.8+. Дополнительные пакеты не нужны.
 
 Программа автоматически обработает все файлы из папки **data** с шириной строки 70 и выведет результат в консоль.
-https://private-user-images.githubusercontent.com/201893244/547339849-1a5fd1cc-7962-4cbd-8248-83a6fbc48bfd.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzMyMTYyNzksIm5iZiI6MTc3MzIxNTk3OSwicGF0aCI6Ii8yMDE4OTMyNDQvNTQ3MzM5ODQ5LTFhNWZkMWNjLTc5NjItNGNiZC04MjQ4LTgzYTZmYmM0OGJmZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMxMVQwNzU5MzlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iNmJkZGZmZGQ2Yzk2YjNkMzgyNjMzMWM3NGM5NWE3MmNjZDJiMTQ1NjQ4NGYwMDU0OGVjM2ZjYjZhOTk4MWMyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.hjZ_gIXMc_MADyiyTZJL7JtX4h3blSX16z6caTVVI3o
+<img width="597" height="808" alt="Снимок экрана (207)" src="https://github.com/user-attachments/assets/732f5b5d-6b8a-411b-bf9b-40b8e03b29dd" />
+
 
 ## Общие выводы
 
